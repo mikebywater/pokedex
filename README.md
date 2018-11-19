@@ -6,4 +6,5 @@
  4. Charmander
  5. Charmeleon
  6. Charizard
+ 7. Squirtle
 
