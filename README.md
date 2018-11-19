@@ -7,4 +7,5 @@
  5. Charmeleon
  6. Charizard
  7. Squirtle
+ 9. Blastoise
 
