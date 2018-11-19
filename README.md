@@ -8,4 +8,5 @@
  6. Charizard
  7. Squirtle
  8. Wartortle
+ 9. Blastoise
 
