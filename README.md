@@ -1,6 +1,6 @@
 # Pokedex
 
-## Kanto
+## Kanto Region
 
  1. Bulbasaur
  2. Ivysaur
