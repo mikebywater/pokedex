@@ -11,7 +11,5 @@
  7. Squirtle
  8. Wartortle
  9. Blastoise
- 
- >>
  151. Mew
 
