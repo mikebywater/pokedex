@@ -11,6 +11,7 @@
  7. Squirtle
  8. Wartortle
  9. Blastoise
+ 10. Caterpie
  11. Weedle
  151. Mew
 
